@@ -8,6 +8,12 @@ I'll be attempting to accurately predict whether or not a customer of a European
 
 <img src="https://i.imgur.com/Vd3SIUZ.jpg">
 
+<img src="https://i.imgur.com/Kf53GKy.jpg">
+
+<img src="https://i.imgur.com/PBX0Pua.jpg">
+
+<img src="https://i.imgur.com/hj828UI.jpg">
+
 ## Models Used for Predictions
 
 The models I tested are:<br>
@@ -34,4 +40,4 @@ the best performing model is xgboost with a training and testing accuracy of 93.
 
 The most predictive factor in whether or not a customer will sign up for a term deposit is the duration of the phone call. The average duration of a phone call for customers who sign up for a term deposit is 11 minutes while the average duration for customers who are not interested is 3-4 minutes. If the campaign is able to engage the customer past the 4 minute mark and keep them interested in the product the success rate for sales should increase.
  
-The subsets of customers to focus on to maximize sign ups are customers with a tertiary education. These customers sign up about 9% of the time where as customers with a secondary education only sign up about 7% of the time.
+The subsets of customers to focus on to maximize sign ups are students, customers with a tertiary education, or single customers.
