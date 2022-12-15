@@ -1,6 +1,8 @@
 # Term Deposit Marketing
 
-I'll be attempting to accurately predict whether or not a customer of a European banking institution will sign up for a term deposit. 
+The ability to find customers who are willing to purchase a companies product is an invaluable tool for any industry. Cold calling potential customers, while providing a lot of data, likely results in a lot of failed attempts in making a sale. Being able to distinguish any features that could help increase the success rate of sales would save companies a lot of time and money. With the large amount of data sales calls provide, machine learning can be used to find the customers that are more likely to result in successful sales. 
+
+I'll be attempting to accurately predict whether or not a customer of a European banking institution will sign up for a term deposit using machine learning. 
 
 ## Visualizations
 
