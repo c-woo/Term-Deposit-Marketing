@@ -8,7 +8,7 @@ The data comes from the marketing efforts of a European banking institution. The
 > age : age of customer  
 > job : type of job  
 > marital : marital status  
-> education level  
+> education: education level
 > default: has credit in default?  
 > balance: average yearly balance, in euros  
 > housing: has a housing loan?  
