@@ -1,30 +1,37 @@
 # Term Deposit Marketing
 
-<<<<<<< HEAD
-I'll be attempting to accurately predict whether or not a customer of a European banking institution will sign up for a term deposit. Ultimately, I am looking for ways to improve the success rate for calls made to customers which can be leveraged to other products that are offered.
+The ability to find customers who are willing to purchase a companies product is an invaluable tool for any industry. Cold calling potential customers, while providing a lot of data, likely results in a lot of failed attempts in making a sale. Being able to distinguish any features that could help increase the success rate of sales would save companies a lot of time and money. With the large amount of data sales calls provide, machine learning can be used to find the customers that are more likely to result in successful sales. Ultimately, I am looking for ways to improve the success rate for calls made to customers which can be leveraged to other products that are offered.
 
 # Data
 
 The data comes from the marketing efforts of a European banking institution. The marketing campaign involves making a phone call to a customer, often multiple times to ensure a product subscription, in this case a term deposit. Term deposits are usually short-term deposits with maturities ranging from one month to a few years. The customer must understand when buying a term deposit that they can withdraw their funds only after the term ends.
 > age : age of customer
-> job : type of job
-> marital : marital status
-> education level
-> default: has credit in default?
-> balance: average yearly balance, in euros
-> housing: has a housing loan?
-> loan: has personal loan?
-> contact: contact communication type
-> day: last contact day of the month
-> month: last contact month of year
-> duration: last contact duration, in seconds
-> campaign: number of contacts performed during this campaign and for this client
-> y: has the client subscribed to a term deposit? (binary)
-=======
-The ability to find customers who are willing to purchase a companies product is an invaluable tool for any industry. Cold calling potential customers, while providing a lot of data, likely results in a lot of failed attempts in making a sale. Being able to distinguish any features that could help increase the success rate of sales would save companies a lot of time and money. With the large amount of data sales calls provide, machine learning can be used to find the customers that are more likely to result in successful sales. 
 
-I'll be attempting to accurately predict whether or not a customer of a European banking institution will sign up for a term deposit using machine learning. 
->>>>>>> 115d88fe1bbd7c2241e31faadcec00c067b9ce40
+> job : type of job
+
+> marital : marital status
+
+> education level
+
+> default: has credit in default?
+
+> balance: average yearly balance, in euros
+
+> housing: has a housing loan?
+
+> loan: has personal loan?
+
+> contact: contact communication type
+
+> day: last contact day of the month
+
+> month: last contact month of year
+
+> duration: last contact duration, in seconds
+
+> campaign: number of contacts performed during this campaign and for this client
+
+> y: has the client subscribed to a term deposit? (binary)
 
 ## Visualizations
 
