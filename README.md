@@ -25,14 +25,9 @@ The data comes from the marketing efforts of a European banking institution. The
 
 <img src="https://i.imgur.com/Vd3SIUZ.jpg">
 
-<<<<<<< HEAD
 <img src="https://i.imgur.com/QITs9xW.jpg">
 
-=======
->>>>>>> 39b6108972a58770d71414772832591509dfcf84
 <img src="https://i.imgur.com/PBX0Pua.jpg">
-
-<img src="https://i.imgur.com/Kf53GKy.jpg">
 
 <img src="https://i.imgur.com/hj828UI.jpg">
 
@@ -62,7 +57,7 @@ The best performing model is xgboost with a training and testing accuracy of 93.
 
 The most predictive factor in whether or not a customer will sign up for a term deposit is the duration of the phone call. The average duration of a phone call for customers who sign up for a term deposit is 11 minutes while the average duration for customers who are not interested is 3-4 minutes. If the campaign is able to engage the customer past the 4 minute mark and keep them interested in the product the success rate for sales should increase.
  
-The subsets of customers to focus on to maximize sign ups are students, customers with a tertiary education, or single customers.
+The subsets of customers to focus on to maximize sign ups are students, customers with a tertiary education, or single customers. 
 
 
 
