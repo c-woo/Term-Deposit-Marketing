@@ -25,9 +25,14 @@ The data comes from the marketing efforts of a European banking institution. The
 
 <img src="https://i.imgur.com/Vd3SIUZ.jpg">
 
+<<<<<<< HEAD
 <img src="https://i.imgur.com/QITs9xW.jpg">
 
+=======
+>>>>>>> 39b6108972a58770d71414772832591509dfcf84
 <img src="https://i.imgur.com/PBX0Pua.jpg">
+
+<img src="https://i.imgur.com/Kf53GKy.jpg">
 
 <img src="https://i.imgur.com/hj828UI.jpg">
 
