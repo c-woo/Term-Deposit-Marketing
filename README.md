@@ -1,6 +1,24 @@
 # Term Deposit Marketing
 
-I'll be attempting to accurately predict whether or not a customer of a European banking institution will sign up for a term deposit. 
+I'll be attempting to accurately predict whether or not a customer of a European banking institution will sign up for a term deposit. Ultimately, I am looking for ways to improve the success rate for calls made to customers which can be leveraged to other products that are offered.
+
+# Data
+
+The data comes from the marketing efforts of a European banking institution. The marketing campaign involves making a phone call to a customer, often multiple times to ensure a product subscription, in this case a term deposit. Term deposits are usually short-term deposits with maturities ranging from one month to a few years. The customer must understand when buying a term deposit that they can withdraw their funds only after the term ends.
+> age : age of customer
+> job : type of job
+> marital : marital status
+> education level
+> default: has credit in default?
+> balance: average yearly balance, in euros
+> housing: has a housing loan?
+> loan: has personal loan?
+> contact: contact communication type
+> day: last contact day of the month
+> month: last contact month of year
+> duration: last contact duration, in seconds
+> campaign: number of contacts performed during this campaign and for this client
+> y: has the client subscribed to a term deposit? (binary)
 
 ## Visualizations
 
