@@ -5,20 +5,19 @@ The ability to find customers who are willing to purchase a companies product is
 # Data
 
 The data comes from the marketing efforts of a European banking institution. The marketing campaign involves making a phone call to a customer, often multiple times to ensure a product subscription, in this case a term deposit. Term deposits are usually short-term deposits with maturities ranging from one month to a few years. The customer must understand when buying a term deposit that they can withdraw their funds only after the term ends.
-
-**Age:** Age of customer  
-**Job:** Type of job  
-**Marital:** Marital status   
-**Education:**  
-**Default:** Has credit in default?  
-**Balance:** Average yearly balance, in euros  
-**Housing:** Has a housing loan?  
-**Loan:** Has personal loan?  
-**Contact:** Contact communication type  
-**Day:** Last contact day of the month  
-**Month:** Last contact month of year  
-**Duration:** Last contact duration, in seconds  
-**Campaign:** Number of contacts performed during this campaign and for this client (includes last contact)  
+> **Age:** Age of customer  
+> **Job:** Type of job  
+> **Marital:** Marital status   
+> **Education:**  
+> **Default:** Has credit in default?  
+> **Balance:** Average yearly balance, in euros  
+> **Housing:** Has a housing loan?  
+> **Loan:** Has personal loan?  
+> **Contact:** Contact communication type  
+> **Day:** Last contact day of the month  
+> **Month:** Last contact month of year  
+> **Duration:** Last contact duration, in seconds  
+> **Campaign:** Number of contacts performed during this campaign and for this client (includes last contact)  
 
 ## Visualizations
 
