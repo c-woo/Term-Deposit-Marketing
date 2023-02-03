@@ -2,7 +2,7 @@
 
 The ability to find customers who are willing to purchase a companies product is an invaluable tool for any industry. Cold calling potential customers, while providing a lot of data, likely results in a lot of failed attempts in making a sale. Being able to distinguish any features that could help increase the success rate of sales would save companies a lot of time and money. With the large amount of data sales calls provide, machine learning can be used to find the customers that are more likely to result in successful sales. Ultimately, I am looking for ways to improve the success rate for calls made to customers which can be leveraged to other products that are offered.
 
-# Data
+## Data
 
 The data comes from the marketing efforts of a European banking institution. The marketing campaign involves making a phone call to a customer, often multiple times to ensure a product subscription, in this case a term deposit. Term deposits are usually short-term deposits with maturities ranging from one month to a few years. The customer must understand when buying a term deposit that they can withdraw their funds only after the term ends.
 > **Age:** Age of customer  
